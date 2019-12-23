@@ -17,7 +17,7 @@ __email__ = 'william.kuang9@gmail.com'
 __status__ = 'In Progress'
 
 # Discord Bot Token
-token = "NjU4MjMyODMwMzc5MTYzNzU4.Xf8xmA.llNwyTn5eyODHoTcUC4p_NZI254"
+token = ""
 
 # Creates prefix for calling commands
 bot = commands.Bot(command_prefix='!')
